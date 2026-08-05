@@ -1,0 +1,6 @@
+id=oplus_smart_dimming
+name=欧加真智能调光
+version=V5.3.1
+versionCode=63
+author=二词元Token
+description=为一加 15/欧加系 ColorOS 16 修复高刷调光回退问题：144Hz 及以上场景由系统切到经典低频闪，回到 120Hz 及以下后自动恢复全亮度低频闪。
