@@ -141,6 +141,3 @@ build/oplus_smart_dimming_v531_release.zip
 
 - [YC9559 / dfps](https://github.com/yc9559/dfps)  
   前台应用检测与事件驱动思路的重要参考来源
-
-- 二词元Token（酷安：戶晨風_Official）  
-  本模块原始项目与场景需求来源
